@@ -1,4 +1,4 @@
-# https://github.com/xailu/xiaolu.github.io
+# https://github.com/xaiolu/xiaolu.github.io
 
 - 👋👋 Hi, I’m @Xaiolu,你好，我是IM小朋友
 - 👋👀 可能未来一些无法维护的应用都会开源到这里
